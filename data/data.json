@@ -1,0 +1,85 @@
+{
+    "data":[
+
+        {
+            "nombre":"David González Moreno",
+            "ciudad": "Madrid",
+            "país": "España",
+            "teléfono": "+34 657 88 25 45",
+            "email": "david_Gonalez@gmail.com",
+            "etiquetas": ["ANGULAR", "JAVASCRIPT", "HTML"]
+        },
+        {
+            "nombre":"Pablo Jimeno Ferrán",
+            "ciudad": "Barcelona",
+            "país": "España",
+            "teléfono": "+34 627 20 34 88",
+            "email": "pablo_jimeno@gmail.com",
+            "etiquetas": ["REACT", "JAVASCRIPT", "HTML&CSS"]
+        },
+        {
+            "nombre":"Ana María Durán Díaz",
+            "ciudad": "Buenos Aires",
+            "país": "Argentina",
+            "teléfono": "+54 127 12 25 00",
+            "email": "ana_maria@gmail.com",
+            "etiquetas": ["JAVA", "SPRING"]
+        },
+        {
+            "nombre":"Monica García Olmo",
+            "ciudad": "Lucerna",
+            "país": "Suiza",
+            "teléfono": "+41 611 88 35 15",
+            "email": "monica12@gmail.com",
+            "etiquetas": ["ANGULAR", "REACT", "JAVASCRIPT", "+3"]
+        },
+        {
+            "nombre":"Daniel Vázquez Moreno",
+            "ciudad": "Sevilla",
+            "país": "España",
+            "teléfono": "+34 227 88 11 55",
+            "email": "daniel_v@gmail.com",
+            "etiquetas": ["C#", ".NET"]
+        },
+        {
+            "nombre":"Jorge Ferrán Robles",
+            "ciudad": "Oviedo",
+            "país": "España",
+            "teléfono": "+34 337 33 98 45",
+            "email": "jorge_ferran@gmail.com",
+            "etiquetas": ["ANGULAR", "JAVASCRIPT", "HTML"]
+        },
+        {
+            "nombre":"Pedro Ramirez Moreno",
+            "ciudad": "Málaga",
+            "país": "España",
+            "teléfono": "+34 657 88 25 45",
+            "email": "pedro@gmail.com",
+            "etiquetas": ["JAVASCRIPT", "HTML&CSS"] 
+        },
+        {
+            "nombre":"Francisca Peralta Sánchez",
+            "ciudad": "París",
+            "país": "Francia",
+            "teléfono": "+33 337 16 25 90",
+            "email": "francisca_Peralta@gmail.com",
+            "etiquetas": ["ANGULAR", "JAVASCRIPT", "HTML"]
+        },
+        {
+            "nombre":"Concepción Pinedo Seguidillo",
+            "ciudad": "Segovia",
+            "país": "España",
+            "teléfono": "+34 657 28 68 68",
+            "email": "concepcion_pinedo@gmail.com",
+            "etiquetas": ["JAVA", "SPRING", "HIBERNATE"]
+        },
+        {
+            "nombre":"Manolo Rivera Salgado",
+            "ciudad": "Madrid",
+            "país": "España",
+            "teléfono": "+34 127 88 60 45",
+            "email": "manolo@gmail.com",
+            "etiquetas": ["REACT", "ANGULAR"]
+        }
+    ]
+}
