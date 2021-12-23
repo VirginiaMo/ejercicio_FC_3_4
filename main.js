@@ -124,3 +124,25 @@ function ordenarEstudiantes(estudiantes, ordenarPor)
 rellenarTabla(estudiantes);
 
 }
+
+
+function buscar(){  
+
+  let textoBusqueda = document.getElementById("textoBusqueda").value.toLowerCase(); 
+  let result = estudiantes.filter((e) => {
+      if(e.nombre.toLowerCase().includes(textoBusqueda) 
+          || e.ciudad.toLowerCase().includes(textoBusqueda)
+          || e.país.toLowerCase().includes(textoBusqueda)
+          || e.email.toLowerCase().includes(textoBusqueda)
+          || e.etiquetas.some((et) => et.toLowerCase().includes(textoBusqueda)) 
+          
+          )
+          {
+            return true;
+          }
+          return false;
+  })
+
+  rellenarTabla(result);
+
+}

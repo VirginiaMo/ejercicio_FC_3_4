@@ -27,3 +27,41 @@
     padding: 5px;
   
 }
+.containerBuscador{
+display: flex;
+flex-direction: row;
+
+}
+.containerBuscador input{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 30px;
+    width: 350px;
+    height: 30px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    border-radius: 5px;
+
+}
+.containerBuscador p{
+    margin-top: 20px;
+    margin-left: 5px;
+    font-size: 18px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+
+}
+.bi-search{
+    color:#A5A8B3;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 27px;
+    
+}
+.iconoEnPlaceholder{
+    position: relative;
+}
